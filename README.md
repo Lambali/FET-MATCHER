@@ -1,0 +1,1 @@
+FEtleri eşleştirmek için kullanılır.
