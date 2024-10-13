@@ -1,1 +1,1 @@
-FEtleri eşleştirmek için kullanılır.
+FET'leri eşleştirmek için kullanılır.
